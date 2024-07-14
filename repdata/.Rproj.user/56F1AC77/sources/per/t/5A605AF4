@@ -1,0 +1,26 @@
+{
+    "id": "5A605AF4",
+    "path": "D:/cs50R/repdata/voters.R",
+    "project_path": "voters.R",
+    "type": "r_source",
+    "hash": "3869567530",
+    "contents": "",
+    "dirty": false,
+    "created": 1720838730604.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "11,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1720876060,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1720876060163,
+    "read_only": false,
+    "read_only_alternatives": []
+}

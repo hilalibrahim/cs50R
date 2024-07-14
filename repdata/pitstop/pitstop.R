@@ -1,0 +1,11 @@
+filename<-readline("Enter the name of csv file:")
+pitstops<-read.csv(filename)
+numpitstops<-nrow(pitstops)
+shortpitstop<-min(pitstops$time)
+longpitstop<-max(pitstops$time)
+totalpitstop<-sum(pitstops$time)
+
+print(paste("Number of Pitstops:",numpitstops))
+print(paste("Shortest Pitstop duration:",shortpitstop))
+print(paste("Longest Pitstop Duration",longpitstop))
+print(paste("Total time spent on pitstops:",totalpitstop))

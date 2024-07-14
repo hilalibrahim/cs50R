@@ -1,0 +1,26 @@
+{
+    "id": "5C22544D",
+    "path": "D:/cs50R/repdata/hello.R",
+    "project_path": "hello.R",
+    "type": "r_source",
+    "hash": "1490493728",
+    "contents": "",
+    "dirty": true,
+    "created": 1720602491423.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "1,36",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1720666815,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1720666819614,
+    "read_only": false,
+    "read_only_alternatives": []
+}
